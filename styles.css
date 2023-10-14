@@ -1,4 +1,7 @@
-
+.a:hover{
+    color: green; 
+    text-decoration: underline;  
+}
 
 /* Browser Hover */
 .span:hover{
